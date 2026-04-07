@@ -1,9 +1,5 @@
 :root {
-<<<<<<< HEAD
-  --primary: #4d9f13; /* verde padrão base */
-=======
-  --primary: #d70e00; /* vermelho padrão base */
->>>>>>> feature/tema-ajustavel
+--primary: #800080; /*Roxo padrãp base*/
   --bg: #f8fafc;
   --text: #0f172a;
   --card: #ffffff;
