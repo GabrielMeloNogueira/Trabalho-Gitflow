@@ -1,4 +1,4 @@
-# Mini App – GitFlow (Equipe XX)
+# # Trabalho GitFlow (equipe: Eu)
 
 Aplicação simples em **HTML/CSS/JS** usada para praticar **Git, GitHub e GitFlow** sem Pull Requests.
 Fluxo proposto: `main`, `develop`, `feature/*`, `release/*`, `hotfix/*`.
@@ -18,5 +18,8 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
-# Trabalho-Gitflow
+- Aluno Gabriel Melo Nogueira -- 2224392
+
+## Observações
+- Conflitos entre branches foram criados e resolvidos manualmente
+- Fluxo GitFlow aplicado sem uso de Pull Requests
